@@ -5,3 +5,4 @@ Go inside the folder and run the
 ```
 ./install-prometheus.sh
 ```
+Prometheus -> 9090
