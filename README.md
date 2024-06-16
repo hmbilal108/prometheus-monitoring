@@ -1,8 +1,12 @@
 # prometheus-monitoring
 I am bilal and i have folked this repo from [Rohit AWS Tip](https://awstip.com/setup-monitoring-for-your-aws-ec2-instances-using-prometheus-and-grafana-a527c55d8abb)
-### For Prometheus
+### For Prometheus (9090)
 Go inside the folder and run the
 ```
 ./install-prometheus.sh
 ```
-Prometheus -> 9090
+### For Grafana (3000)
+Go insde the folder and run the 
+```
+./install-grafana.sh
+```
